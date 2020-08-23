@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Never eat an unkown object.
 Use the left arrow to go back!
